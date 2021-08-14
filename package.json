@@ -23,7 +23,7 @@
     "monq": "^0.3.7",
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11",
-    "request": "^2.88.2",
+    "puppeteer": "^10.2.0",
     "validator": "^10.8.0",
     "winston": "^2.3.1"
   },
